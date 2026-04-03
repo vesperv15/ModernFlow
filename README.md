@@ -20,11 +20,11 @@ Data Format: JSON (for project storage and loading)
 Logic Execution: Dynamic exec() and eval() engines
 
 📖 User Guide
-Adding Blocks: Drag the desired block onto the stage from the left panel.
-Establishing Connections: Select the starting block and press Alt+B, then click the target block.
-Deleting: Select all blocks with a left click and delete them using the "delete" key on the keyboard. Use right-click for individual operations.
-Writing Logic: In the "Action to Perform" section of the right panel, enter your mathematical expressions (e.g., x = x + 1).
-Simulation: Adjust the speed by pressing the ▶️ button above and monitor your algorithm.
+1.Adding Blocks: Drag the desired block onto the stage from the left panel.
+2.Establishing Connections: Select the starting block and press Alt+B, then click the target block.
+3.Deleting: Select all blocks with a left click and delete them using the "delete" key on the keyboard. Use right-click for individual operations.
+4.Writing Logic: In the "Action to Perform" section of the right panel, enter your mathematical expressions (e.g., x = x + 1).
+5.Simulation: Adjust the speed by pressing the ▶️ button above and monitor your algorithm.
 
 🤝 Contributing
 This project is constantly evolving. If you find a bug or have a suggestion for a new feature (e.g., neuro-symbolic AI integration!), please open an Issue or submit a Pull Request.
