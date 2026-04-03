@@ -12,6 +12,7 @@ Key Features
 💾 Project Saving System: Save your work in .mflow format and continue from where you left off at any time.
 🧹 Multiple Selection and Quick Deletion: Make multiple selections with the mouse and clear the scene with the Delete key.
 🎥 Smart Camera Tracking: Tracking system that automatically centers the active block during the simulation.
+<img width="1392" height="952" alt="ModernFlow" src="https://github.com/user-attachments/assets/9a2d3425-9368-479a-9821-7454d31d8ef5" />
 
 Technical Infrastructure
 Language: Python 3.x
