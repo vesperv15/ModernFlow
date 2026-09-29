@@ -27,7 +27,7 @@ Logic Execution: Dynamic exec() and eval() engines
 4.Writing Logic: In the "Action to Perform" section of the right panel, enter your mathematical expressions (e.g., x = x + 1).
 5.Simulation: Adjust the speed by pressing the ▶️ button above and monitor your algorithm.
 
-🤝 Contributing
+ Contributing
 This project is constantly evolving. If you find a bug or have a suggestion for a new feature (e.g., neuro-symbolic AI integration!), please open an Issue or submit a Pull Request.
-👨‍💻 Developer
+ Developer
 Aslı - Student of Mathematics Department, Akdeniz University
