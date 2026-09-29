@@ -1,17 +1,17 @@
 # ModernFlow
 -
-🚀 Modern Flow v5.3
+ Modern Flow v5.3
 Advanced Algorithm and Flowchart Simulator
 Modern Flow is an interactive simulation tool that not only draws flowcharts but also calculates and executes the algorithms you write in real time. Built on the Flowturk logic, this project facilitates debugging and logical reasoning by visualizing complex mathematical operations.
 ---------------------
 Key Features
-🧠 Real-Time Logic Engine: Python-based code written in OPERATION and IF blocks is calculated instantly in the background.
-🎮 Interactive Editor: Drag and drop blocks, quickly connect them with the Alt+B shortcut.
-📊 Property Panel: Custom ID, variable assignment, and operation definition fields for each object.
-📟 Live Terminal: Monitor algorithm results and input/output data in real time.
-💾 Project Saving System: Save your work in .mflow format and continue from where you left off at any time.
-🧹 Multiple Selection and Quick Deletion: Make multiple selections with the mouse and clear the scene with the Delete key.
-🎥 Smart Camera Tracking: Tracking system that automatically centers the active block during the simulation.
+ Real-Time Logic Engine: Python-based code written in OPERATION and IF blocks is calculated instantly in the background.
+ Interactive Editor: Drag and drop blocks, quickly connect them with the Alt+B shortcut.
+ Property Panel: Custom ID, variable assignment, and operation definition fields for each object.
+ Live Terminal: Monitor algorithm results and input/output data in real time.
+ Project Saving System: Save your work in .mflow format and continue from where you left off at any time.
+ Multiple Selection and Quick Deletion: Make multiple selections with the mouse and clear the scene with the Delete key.
+ Smart Camera Tracking: Tracking system that automatically centers the active block during the simulation.
 <img width="1392" height="952" alt="ModernFlow" src="https://github.com/user-attachments/assets/9a2d3425-9368-479a-9821-7454d31d8ef5" />
 
 Technical Infrastructure
@@ -20,7 +20,7 @@ Interface Library: PyQt5
 Data Format: JSON (for project storage and loading)
 Logic Execution: Dynamic exec() and eval() engines
 
-📖 User Guide
+ User Guide
 1.Adding Blocks: Drag the desired block onto the stage from the left panel.
 2.Establishing Connections: Select the starting block and press Alt+B, then click the target block.
 3.Deleting: Select all blocks with a left click and delete them using the "delete" key on the keyboard. Use right-click for individual operations.
